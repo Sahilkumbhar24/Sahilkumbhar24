@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a CS student with a coding youtube channel <br>Currently I am Learning Full stack development 
+I am a CS student with a coding youtube channel <br>Currently I am Learning Java Full stack development 
 
 
 ## 🌐 Socials:
