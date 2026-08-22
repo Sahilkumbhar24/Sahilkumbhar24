@@ -23,10 +23,6 @@ I am a **Full-Stack & Backend Software Developer** with a passion for designing 
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sahilkumbhar24&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
-<p align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahilkumbhar24&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="97%" />
-</p>
 
 
 
