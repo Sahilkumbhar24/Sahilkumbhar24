@@ -12,11 +12,22 @@ I am a **Full-Stack & Backend Software Developer** with a passion for designing 
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
+
+### 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sahilkumbhar24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sahil's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilkumbhar24&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahilkumbhar24&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  
+  <!-- Top Languages (with cachebuster to bypass rate limits) -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sahilkumbhar24&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
+
+<p align="center">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahilkumbhar24&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="97%" />
+</p>
+
 
 
 ## 🏆 GitHub Trophies
